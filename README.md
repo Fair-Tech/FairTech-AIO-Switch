@@ -2,6 +2,8 @@
 
 This is an All-In-One package with everything you may need to hack or update your hacked Switch. Both PC Files, and Switch SD Files.
 
+![](images/projectbanner.gif)
+
 ## Installation:
 For Hacking your Switch for the first time, follow the guide on my website [`here`](http://www.guides.fairtech.us)
 
