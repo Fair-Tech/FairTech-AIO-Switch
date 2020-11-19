@@ -46,3 +46,8 @@ If I forgot something, please let me know.
 * If your Switch won't boot, or crashes after updating with these files, delete the `Atmosphere` folder on the root of your SD card, and re-copy everything on to your SD card. 
 * For a specific Homebrew or app not working, check with the developer of that app, or check the relevent thread on GBAtemp.net.
 * For anything else, feel free to message me on Discord at `Nack#0404`
+
+
+### Donations:
+If for any reason you'd like to donate, first of all, thank you! It's never expected, but always appreciated!
+You can find mind Cash App, and my PayPal.Me below
