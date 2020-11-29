@@ -8,8 +8,8 @@ This is an All-In-One package with everything you may need to hack or update you
 For Hacking your Switch for the first time, follow the guide on my website [`here`](http://www.guides.fairtech.us)
 
 For Updating your already hacked Switch:
-* Copy the contents of the `PC Files` folder to somewhere on your computer, or if you already have TegraRcmGUI, just copy the Atmos.bin and Hekate.bin from the folder to your TegraRcmGUI folder
-* Copy the contents of the `Switch SD` folder to the root of your SD Card and replace the files
+* Copy the contents of the `1. PC Files` folder to somewhere on your computer, or if you already have TegraRcmGUI, just copy the Atmos.bin and Hekate.bin from the folder to your TegraRcmGUI folder
+* Copy the contents of the `3. Post-Installation SD Files` folder to the root of your SD Card and replace the files
 
 ## Included PC Files:
 
@@ -20,6 +20,7 @@ For Updating your already hacked Switch:
 
 * [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) - Custom Firmware w/ Sig Patches
 * [Hekate](https://github.com/CTCaer/hekate/releases) - Custom Bootloader
+* [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM/releases) - prod.keys backup and restore utility
 *  All of the homebrew and Sysmodules listed below
  
 ### Included Homebrew:
@@ -37,7 +38,7 @@ For Updating your already hacked Switch:
 | Daybreak | Atmosphere's own firmware updater, allows you to install firmware updates downloaded with the All-In-One Switch Updater |
 | [Linkalho](https://github.com/rdmrocha/linkalho/releases) | Allows you to link a Nintendo Network ID offline for games that require one (like Clubhouse Games, Arcade Archives, and Bloodstained)
 | [Tesla Overlay](https://github.com/WerWolv/nx-ovlloader) | Allows an overlay menu, useful for on the fly cheats, overclock changes, and Sysmodule toggles |
-| Various Tesla Modules | sys-clk for overclock, edizon for cheats, sharenx for screenshots, ovlSysModules for enabling/disabling modules |
+| Various Tesla Modules | [sys-clk](https://github.com/retronx-team/sys-clk/releases) for overclock, [Edizon + Overlay](https://github.com/WerWolv/EdiZon/releases) for cheats, [Sharenx Overlay](https://github.com/HookedBehemoth/ShareNX-Overlay/releases) for screenshots, [ovlSysModules](https://github.com/WerWolv/ovl-sysmodules/releases) for enabling/disabling modules |
 
 If I forgot something, please let me know.
 
@@ -46,8 +47,3 @@ If I forgot something, please let me know.
 * If your Switch won't boot, or crashes after updating with these files, delete the `Atmosphere` folder on the root of your SD card, and re-copy everything on to your SD card. 
 * For a specific Homebrew or app not working, check with the developer of that app, or check the relevent thread on GBAtemp.net.
 * For anything else, feel free to message me on Discord at `Nack#0404`
-
-
-### Donations:
-If for any reason you'd like to donate, first of all, thank you! It's never expected, but always appreciated!
-You can find mind Cash App, and my PayPal.Me below
