@@ -49,6 +49,6 @@ If I forgot something, please let me know.
 * For anything else, feel free to message me on Discord at `Nack#0404`
 
 ## Donations:
-Donations are never expected, but always appreciated! You can support me via CashApp or PayPal. 
+Donations are never expected, but always appreciated! You can support me via [CashApp](https://cash.app/$FairTech1) or [PayPal](https://www.paypal.com/paypalme/NicholasFair1). 
 
 <img src="images/cashappqr.jpg" width="300" />  <img src="images/paypalqr.jpg" width ="300" /> 
