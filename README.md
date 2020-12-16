@@ -13,9 +13,9 @@ For Updating your already hacked Switch:
 
 ## Included PC Files:
 
-* [TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI/releases) - Payload Injector for Windows
-*[HPUSBDisk.exe](https://www.softpedia.com/get/System/Hard-Disk-Utils/HP-USB-Disk-Storage-Format-Tool.shtml) - FAT32 Formatter for Windows
-* Payload Files for Atmosphere and Hekate
+ * [TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI/releases) - Payload Injector for Windows
+ * [HPUSBDisk.exe](https://www.softpedia.com/get/System/Hard-Disk-Utils/HP-USB-Disk-Storage-Format-Tool.shtml) - FAT32 Formatter for Windows
+ * Payload Files for Atmosphere and Hekate
 
 ## Included Switch SD Files:
 
