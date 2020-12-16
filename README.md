@@ -9,7 +9,7 @@ For Hacking your Switch for the first time, follow the guide on my website [`her
 
 For Updating your already hacked Switch:
 * Copy the contents of the `1. PC Files` folder to somewhere on your computer, or if you already have TegraRcmGUI, just copy the contents of the payload folder inside the `1. PC Files` to where you store your Payloads
-* Copy the contents of the `3. Post-Install SD Files` folder to the root of your SD Card and replace the files
+* Copy the contents of the `3. Post-Install SD` folder to the root of your SD Card and replace the files
 
 ## Included PC Files:
 
