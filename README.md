@@ -8,12 +8,13 @@ This is an All-In-One package with everything you may need to hack or update you
 For Hacking your Switch for the first time, follow the guide on my website [`here`](http://www.guides.fairtech.us)
 
 For Updating your already hacked Switch:
-* Copy the contents of the `1. PC Files` folder to somewhere on your computer, or if you already have TegraRcmGUI, just copy the Atmos.bin and Hekate.bin from the folder to your TegraRcmGUI folder
-* Copy the contents of the `3. Post-Installation SD Files` folder to the root of your SD Card and replace the files
+* Copy the contents of the `1. PC Files` folder to somewhere on your computer, or if you already have TegraRcmGUI, just copy the contents of the payload folder inside the '1. PC Files' to where you store your Payloads
+* Copy the contents of the `3. Post-Install SD Files` folder to the root of your SD Card and replace the files
 
 ## Included PC Files:
 
 * [TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI/releases) - Payload Injector for Windows
+*[HPUSBDisk.exe](https://www.softpedia.com/get/System/Hard-Disk-Utils/HP-USB-Disk-Storage-Format-Tool.shtml) - FAT32 Formatter for Windows
 * Payload Files for Atmosphere and Hekate
 
 ## Included Switch SD Files:
