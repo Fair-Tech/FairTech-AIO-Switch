@@ -26,9 +26,9 @@ For Updating your already hacked Switch:
 
 ## Included Payload Injector Files:
 
-* [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) - Blue Light - USER1
-* [Hekate](https://github.com/CTCaer/hekate/releases) - Custom Bootloader - Green Light - USER2
-* [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM/releases) - Red Light - USER3
+* Blue Light - USER1 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases)
+* Green Light - USER2 - [Hekate](https://github.com/CTCaer/hekate/releases)
+* Red Light - USER3 - [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM/releases)
  
 ### Included Homebrew:
 | Homebrew | Function |
