@@ -23,6 +23,12 @@ For Updating your already hacked Switch:
 * [Hekate](https://github.com/CTCaer/hekate/releases) - Custom Bootloader
 * [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM/releases) - prod.keys backup and restore utility
 *  All of the homebrew and Sysmodules listed below
+
+## Included Payload Injector Files:
+
+* [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) - Blue Light - USER1
+* [Hekate](https://github.com/CTCaer/hekate/releases) - Custom Bootloader - Green Light - USER2
+* [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM/releases) - Red Light - USER3
  
 ### Included Homebrew:
 | Homebrew | Function |
