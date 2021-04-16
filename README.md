@@ -43,7 +43,7 @@ For Updating your already hacked Switch:
 | [Themezer-NX](https://github.com/suchmememanyskill/themezer-nx/releases) | Download user made themes to install with NXThemes Installer |
 | [All-In-One Switch Updater](https://github.com/HamletDuFromage/aio-switch-updater/releases) | Allows you to update Atmosphere, Hekate, Sig Patches, Cheats, and more from a single Homebrew app. |
 | Daybreak | Atmosphere's own firmware updater, allows you to install firmware updates downloaded with the All-In-One Switch Updater |
-| [Linkalho](https://github.com/rdmrocha/linkalho/releases)  - Removed in Favor of Tinfoil Support | Allows you to link a Nintendo Network ID offline for games that require one (like Clubhouse Games, Arcade Archives, and Bloodstained)
+| [~~Linkalho~~](https://github.com/rdmrocha/linkalho/releases)  - Removed in Favor of Tinfoil Support | Allows you to link a Nintendo Network ID offline for games that require one (like Clubhouse Games, Arcade Archives, and Bloodstained)
 | [Tesla Overlay](https://github.com/WerWolv/nx-ovlloader) | Allows an overlay menu, useful for on the fly cheats, overclock changes, and Sysmodule toggles |
 | Various Tesla Modules | [sys-clk](https://github.com/retronx-team/sys-clk/releases) for overclock, [Edizon + Overlay](https://github.com/WerWolv/EdiZon/releases) for cheats, [Sharenx Overlay](https://github.com/HookedBehemoth/ShareNX-Overlay/releases) for screenshots, [ovlSysModules](https://github.com/WerWolv/ovl-sysmodules/releases) for enabling/disabling modules |
 
