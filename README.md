@@ -36,7 +36,7 @@ For Updating your already hacked Switch:
 | [Homebrew App Store](https://github.com/fortheusers/hb-appstore/releases) | Download new homebrew apps directly from your Nintendo Switch
 | [Mission Control](https://github.com/ndeadly/MissionControl) | Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary. |
 | [Tinfoil](https://tinfoil.io/) | Installing .NSP files from network |
-| NEW [FairTechInstaller](https://github.com/Fair-Tech/FairTech-Installer/releases) | Installing homebrew forwarders and NSP's from SD card |
+| NEW [FairTech Installer](https://github.com/Fair-Tech/FairTech-Installer/releases) | Installing homebrew forwarders and NSP's from SD card |
 | [FTPD Pro](https://github.com/mtheall/ftpd/releases) | Allows file transfer over local network via ftp |
 | [JKSV](https://github.com/J-D-K/JKSV/releases) | A Save Manager for Nintendo Switch |
 | [NXThemes Installer](https://github.com/exelix11/SwitchThemeInjector/releases) | Allows use of Custom Themes for Nintendo Switch |
